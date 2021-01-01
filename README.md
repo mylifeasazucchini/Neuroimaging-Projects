@@ -5,3 +5,6 @@ Data: https://www.kaggle.com/ilknuricke/neurohackinginrimages
 
 ## 2. Predicting age and assessment values from two domains using features derived from brain MRI images
 Data: https://www.kaggle.com/c/trends-assessment-prediction/data
+
+## 3. Predicting Dementia
+Data: https://www.kaggle.com/jboysen/mri-and-alzheimers
