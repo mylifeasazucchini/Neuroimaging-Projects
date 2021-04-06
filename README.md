@@ -20,4 +20,7 @@ Data: https://www.kaggle.com/c/trends-assessment-prediction/data
 #### -> Predicting Dementia
 Data: https://www.kaggle.com/jboysen/mri-and-alzheimers
 
+#### -> Semi-Supervise MNIST
+https://github.com/yunjianyang/Semi-supervised_MNIST
+
 
