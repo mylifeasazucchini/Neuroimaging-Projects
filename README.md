@@ -11,6 +11,9 @@
 #### ->Multi-Modal Deep Learning
 Data: __________________________________________
 
+#### ->Emotion Recognition
+Data: iMiGUE: An Identity-free Video Dataset for Micro-Gesture Understanding andEmotion Analysis
+
 
 #### -> Predicting Dementia
 Data: https://www.kaggle.com/jboysen/mri-and-alzheimers
