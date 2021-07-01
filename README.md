@@ -4,7 +4,7 @@
 #### -> It is important to be able to differentiate between which problems just require more data and compute to work and which problems needs core algorithmic inventions
 #### -> Creating models which need less labeled training data use - one shot learning, learning from unstructured data, weak labels
 #### -> Something about GANs: use them as feature extractor in an unsupervised task to learn about data distribution and then maybe see the results you get with these learned features in a supervised setting
-
+#### -> Estimating Uncertainity in Registration Errors would be a nice direction!
 
 ## Next Projects Ideas
 
